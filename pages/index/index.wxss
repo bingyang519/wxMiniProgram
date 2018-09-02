@@ -1,0 +1,4 @@
+/* pages/index/index.wxss */
+.top{
+	margin-top: 100rpx;
+}

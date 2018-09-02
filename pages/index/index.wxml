@@ -1,0 +1,3 @@
+
+<view class='top'></view>
+<button type='primary' bindtap='gotoCalendar'>日历组件</button>
